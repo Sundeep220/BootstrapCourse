@@ -15,7 +15,8 @@
         `npm install jquery@3.3.1 popper.js@1.12.9 --save`
     4. Install font-awesome icon toolkit as I have used it in my website: 
         `npm install font-awesome@4.7.0 --save`
-    5. Another module that we install is Bootstrap Social that enables the addition of Social buttons to our site:
+    5. Another module that we install is Bootstrap Social that enables the addition of Social buttons to 
+       our site:
         `npm install bootstrap-social@5.1.1 --save`
     6. To start the server to run app :
         `npm start`
@@ -23,24 +24,27 @@
  The Website Images: 
     -Home Page:
     
-    ![screencapture-localhost-3000-index-html-2022-10-10-15_43_00](https://user-images.githubusercontent.com/93663329/194844633-40db9c3b-aade-4f39-b97a-409253f3f3ce.png)
-
+   ![home](https://user-images.githubusercontent.com/93663329/194844842-4d84326a-0e98-4036-b3eb-4372b2c17cb2.png)
     
     
     -About Us Page: 
     
-    ![screencapture-localhost-3000-aboutus-html-2022-10-10-15_43_14](https://user-images.githubusercontent.com/93663329/194844325-b3a02754-8c4b-452b-a971-08fbdbdd5c8a.png)
+  ![aboutUs](https://user-images.githubusercontent.com/93663329/194844894-8236aebc-559a-43e3-96f7-624e11085de7.png)
+
     
     
     -Menu Page:
     
-    
-    ![screencapture-localhost-3000-menus-html-2022-10-10-15_43_26](https://user-images.githubusercontent.com/93663329/194844404-eb3a9ef1-408f-4dc7-b554-311bdf00048a.png)
+    ![menu](https://user-images.githubusercontent.com/93663329/194844927-73d81fc4-c03d-4751-9a96-2c994902f761.png)
+
+   
 
     
     -Contact Us Page: 
      
      
-    ![screencapture-localhost-3000-contactus-html-2022-10-10-15_43_39](https://user-images.githubusercontent.com/93663329/194844473-1079747f-12ef-47c5-ac70-af3ec6b01f1a.png)
+     ![contact](https://user-images.githubusercontent.com/93663329/194844965-7a9bfc01-95ea-40eb-8ce1-0cf6c08610e1.png)
+
+     
 
     
