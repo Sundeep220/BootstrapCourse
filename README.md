@@ -27,23 +27,26 @@
    ![home](https://user-images.githubusercontent.com/93663329/194844842-4d84326a-0e98-4036-b3eb-4372b2c17cb2.png)
     
     
-    -About Us Page: 
+    
+   -About Us Page: 
     
   ![aboutUs](https://user-images.githubusercontent.com/93663329/194844894-8236aebc-559a-43e3-96f7-624e11085de7.png)
 
     
     
-    -Menu Page:
+   -Menu Page:
     
-    ![menu](https://user-images.githubusercontent.com/93663329/194844927-73d81fc4-c03d-4751-9a96-2c994902f761.png)
+    
+   ![menu](https://user-images.githubusercontent.com/93663329/194845146-d8539cf4-b971-4742-ae7f-2fe034995d2d.png)
 
    
 
     
-    -Contact Us Page: 
+   -Contact Us Page: 
      
      
-     ![contact](https://user-images.githubusercontent.com/93663329/194844965-7a9bfc01-95ea-40eb-8ce1-0cf6c08610e1.png)
+   ![contact](https://user-images.githubusercontent.com/93663329/194845185-4ae43941-2109-4de6-a1f6-fa7ea6d81f52.png)
+
 
      
 
