@@ -23,7 +23,8 @@
  The Website Images: 
     -Home Page:
     
-    ![screencapture-localhost-3000-index-html-2022-10-10-15_43_00](https://user-images.githubusercontent.com/93663329/194844275-1679ff9c-7192-4443-8fc9-3d4f1355a168.png)
+    ![screencapture-localhost-3000-index-html-2022-10-10-15_43_00](https://user-images.githubusercontent.com/93663329/194844633-40db9c3b-aade-4f39-b97a-409253f3f3ce.png)
+
     
     
     -About Us Page: 
